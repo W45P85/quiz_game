@@ -38,5 +38,5 @@ if answer.lower() == "central processing unit":
 else: 
     print("Schade, die Antwort ist leider falsch. :(")
     
-print (f"Das Quiz ist leider schon vorbei. Du hast {score} Punkte von möglichen 4 Punkten erreicht.")
-print ("Das sind" + str((score / 4) * 100) + "% richtige Angaben.")
+print(f"Das Quiz ist leider schon vorbei. Du hast {score} Punkte von möglichen 4 Punkten erreicht.")
+print("Das sind" + str((score / 4) * 100) + "% richtige Angaben.")
